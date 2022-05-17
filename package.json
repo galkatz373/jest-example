@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0-0 >=7.0.0-beta.0 <8",
+    "@babel/preset-env": "latest",
+    "@babel/preset-typescript": "latest",
+    "@types/jest": "^27.0.0",
+    "@types/node": "latest",
+    "babel-jest": "^28.0.0",
+    "jest": "latest",
+    "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0",
+    "ts-jest": "latest",
+    "typescript": ">=4.3"
+  }
+}
